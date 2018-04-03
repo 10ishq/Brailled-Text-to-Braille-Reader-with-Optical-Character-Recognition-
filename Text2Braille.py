@@ -1,6 +1,4 @@
-#!/usr/local/bin/python
-# -*- coding: utf-8 -*-
-# file: main.py
+#This python file is tested on version 3.5-6 
 
 # u2800 - u283F
 unibase = ['280', '281', '282', '283']
