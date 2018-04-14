@@ -3,7 +3,11 @@
 # There are two python files: one is tested on python version 3.5-6 and other on 2.7(Raspberry pi compatible).
 
 Dependencies- 
-OpenCV
-Numpy
-Pytesseract (You also need to install the main Tesseract OCR engine, wheather in windows or linux. More information - https://github.com/tesseract-ocr/ )
-Pillow
+  
+  OpenCV
+  
+  Numpy
+  
+  Pytesseract (You also need to install the main Tesseract OCR engine, wheather in windows or linux. More information -         https://github.com/tesseract-ocr/ )
+  
+  Pillow
