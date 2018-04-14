@@ -194,7 +194,7 @@ import time
 #ser.open()
 pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract'
 
-cap=cv2.VideoCapture('vid.avi')
+cap=cv2.VideoCapture('vid.mp4')
 
 while True :#cap.isOpened():
     ret,img=cap.read()
