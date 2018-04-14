@@ -197,7 +197,6 @@ import serial
 import time
 ser=serial.Serial('COM43',9600)
 #ser.open()
-pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract'
 
 cap=cv2.VideoCapture('vid.mp4')
 
