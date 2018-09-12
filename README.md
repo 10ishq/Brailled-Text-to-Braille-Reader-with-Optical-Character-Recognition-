@@ -8,6 +8,6 @@ Dependencies-
   
   Numpy
   
-  Pytesseract (You also need to install the main Tesseract OCR engine, wheather in windows or linux. More information -         https://github.com/tesseract-ocr/ )
+  Pytesseract (You also need to install the main Tesseract OCR engine, whether in windows or linux. More information -         https://github.com/tesseract-ocr/ )
   
   Pillow
